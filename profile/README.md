@@ -4,7 +4,7 @@
 
 Mage Arena is all about spell casting, PvP battles, and magical dominance. But what if you could take your wizardry to a whole new level? The **Mage Arena mod menu** gives you cheats, hacks, ESP, and endless customization for the most insane gameplay advantage.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Menu-blueviolet)](https://mage-arena-mod-menus.github.io/.github/)
 ---
 
 ## Product Description
